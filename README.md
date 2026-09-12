@@ -1,1 +1,1 @@
-## Depots des datasets
+## Ce dépôt regroupe les jeux de données collectés par l'équipe dans le cadre du projet LAFIA. L'objectif est de centraliser ces sources pour, construire à terme, un dataset complet adapté à nos besoins de prédiction.
